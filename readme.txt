@@ -14,3 +14,8 @@ eeeeeeee
 ffffffff
 gggggggg
 gggggggg
+<<<<<<< HEAD
+=======
+hhhhhhhh
+jjjjjjjjjjjjjjj
+>>>>>>> dev
